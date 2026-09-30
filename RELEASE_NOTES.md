@@ -1,20 +1,25 @@
-# AQUAVERA COMPLETE V2
+# AQUAVERA COMPLETE V3
 
-## Image Correction Release
+## Image Quality Upgrade
 
-This release keeps the approved AQUAVERA storefront structure and visual design while correcting the image assignment problem found in V1.
+V3 preserves the approved AQUAVERA V2 layout and functionality while upgrading the image pipeline to a higher-quality presentation benchmarked against the approved TABLEFORGE COMPLETE V2 storefront.
 
-### Fixed
-- Removed storefront screenshots from category cards.
-- Removed storefront screenshots from collection banners.
-- Corrected Heating image assignment.
-- Added dedicated Air & Oxygen image asset.
-- Reworked category/collection asset mapping for cleaner visual consistency.
-- Kept all assets local for GitHub Pages/offline ZIP use.
+### Image improvements
+- Category imagery standardized to 1000×1000.
+- Product imagery standardized to clean 1000×1000 studio canvases with the full item visible.
+- Collection imagery increased to 1600px wide for sharper desktop rendering.
+- Hero imagery increased to 2200px wide.
+- High-quality Lanczos resampling and restrained sharpening/color enhancement applied.
+- JPEG exports use optimized progressive encoding with high-quality settings.
+- Every image remains below 1 MB.
+- No UI screenshots, prices, buttons, ratings, or page text were added to product/category photography.
 
-### Quality target
-- Clean photography
-- No UI text embedded in category/collection photos
-- Consistent framing
-- Web-optimized JPEG assets
-- No individual image over 1 MB
+## What was not changed
+- Store layout
+- Navigation
+- Product catalog
+- Prices
+- Shopping bag behavior
+- Search/filter behavior
+- Support/contact pages
+- GitHub Pages structure

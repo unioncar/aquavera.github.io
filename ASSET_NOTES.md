@@ -1,13 +1,11 @@
-# AQUAVERA V2 — Asset Notes
+# AQUAVERA V3 — Asset Notes
 
-All category and collection images were replaced with clean, text-free photography/product imagery.
+The V3 image set is optimized for a premium storefront presentation.
 
-- Category cards use individual clean product images where applicable.
-- Heating uses the dedicated heater photograph.
-- Air & Oxygen uses a clean aquarium scene with visible water/bubble detail.
-- Accessories uses a clean aquarium scene without UI text.
-- Collection banners no longer use screenshots of the storefront.
-- Product images remain local and offline-compatible.
-- Images are compressed for web delivery and remain below 1 MB each.
+- `hero/` — 2200px-wide hero photography.
+- `categories/` — 1000×1000 category photography.
+- `collections/` — 1600px-wide collection photography.
+- `products/` — 1000×1000 product canvases; products remain fully visible with clean studio-style breathing room.
+- `branding/` — optimized AQUAVERA logo.
 
-No prices, buttons, ratings, navigation, or webpage screenshots are embedded in the replacement category/collection assets.
+All JPG assets are locally bundled and kept below 1 MB.
