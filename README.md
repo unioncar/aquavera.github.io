@@ -550,3 +550,10 @@ It becomes a world.
 ---
 
 © 2026 AQUAVERA — Aquarium & Aquascaping
+
+
+## V2 Image Correction
+
+AQUAVERA COMPLETE V2 preserves the storefront structure while correcting the original image-assignment issue. Category and collection cards now use clean, text-free local photography/product imagery, the hero background no longer contains embedded webpage text, and product imagery has been cleaned of embedded UI icons.
+
+**V2 Status:** Image correction and asset cleanup complete.

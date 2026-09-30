@@ -1,18 +1,20 @@
-# AQUAVERA V1.0.0
+# AQUAVERA COMPLETE V2
 
-- Complete static aquarium storefront built from scratch.
-- Experience-first aquarium discovery.
-- 18 curated products.
-- 10 product categories.
-- 6 collections.
-- Search, category filters, experience filters and sorting.
-- Dynamic product detail page.
-- Shopping bag with localStorage.
-- Responsive desktop/tablet/mobile layouts.
-- Support, About, Guides and Collections pages.
-- Local image assets with relative references.
-- GitHub Pages compatible.
-- Local asset references validated.
-- Internal links validated.
-- JavaScript syntax validated.
-- ZIP integrity validated.
+## Image Correction Release
+
+This release keeps the approved AQUAVERA storefront structure and visual design while correcting the image assignment problem found in V1.
+
+### Fixed
+- Removed storefront screenshots from category cards.
+- Removed storefront screenshots from collection banners.
+- Corrected Heating image assignment.
+- Added dedicated Air & Oxygen image asset.
+- Reworked category/collection asset mapping for cleaner visual consistency.
+- Kept all assets local for GitHub Pages/offline ZIP use.
+
+### Quality target
+- Clean photography
+- No UI text embedded in category/collection photos
+- Consistent framing
+- Web-optimized JPEG assets
+- No individual image over 1 MB

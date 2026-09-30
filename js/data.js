@@ -78,7 +78,7 @@ const PRODUCT_DATA = [
     "category": "Accessories",
     "spec": "8-piece",
     "level": "Intermediate",
-    "image": "driftwood.jpg"
+    "image": "aquascaping-tools.jpg"
   },
   {
     "id": 10,
@@ -87,7 +87,7 @@ const PRODUCT_DATA = [
     "category": "Air & Oxygen",
     "spec": "Up to 75 gal",
     "level": "Beginner",
-    "image": "canister-filter.jpg"
+    "image": "air-pump.jpg"
   },
   {
     "id": 11,
